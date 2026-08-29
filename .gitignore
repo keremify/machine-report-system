@@ -1,0 +1,29 @@
+# Local workspace metadata
+.agents/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Flutter project generated files
+machine_report/.dart_tool/
+machine_report/.flutter-plugins
+machine_report/.flutter-plugins-dependencies
+machine_report/.pub/
+machine_report/.pub-cache/
+machine_report/build/
+machine_report/coverage/
+
+# Android build artifacts
+machine_report/android/.gradle/
+machine_report/android/app/debug/
+machine_report/android/app/profile/
+machine_report/android/app/release/
+
+# Windows ephemeral build files
+machine_report/windows/flutter/ephemeral/
